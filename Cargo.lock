@@ -460,7 +460,6 @@ dependencies = [
 [[package]]
 name = "crossfont"
 version = "0.2.0"
-source = "git+https://github.com/zenixls2/crossfont?branch=ligature#5c6d16d03cf3cd4275873acec47ea6c8fcae3f6f"
 dependencies = [
  "cocoa 0.24.0",
  "core-foundation 0.9.1",
